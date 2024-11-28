@@ -23,7 +23,7 @@ impl Deck {
         // All three of these are valid
         return deck;
         // return Deck { cards};
-        Deck { cards }
+        Deck { cards } // Implicit return 
     }
 
 }
