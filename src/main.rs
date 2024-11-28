@@ -19,7 +19,11 @@ impl Deck {
         }
         
         let deck = Deck{cards};
+
+        // All three of these are valid
         return deck;
+        // return Deck { cards};
+        Deck { cards }
     }
 
 }
