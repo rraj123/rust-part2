@@ -11,3 +11,7 @@
 
 #### self
 ![Declaration](images/self.png)
+
+
+#### Functions vs methods
+![Declaration](images/funs_methods.png)
